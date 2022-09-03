@@ -10,7 +10,7 @@ Pokud je ikona:\
 -> 1. Zelená - Test se nepíše\
 -> 2. Žlutý blok - Test se píše\
 Při druhé možnosti jdi do šložky TestyVytX (Číslo programu, které je nastaveno v souboru *TestyProgramConf.txt*) a spusť **Testy.exe**\
-**!** Při zapnutí Testu **stiskni klávesu A** (Pro aktivaci Timeru na pozadí) **!**\
+**!** Po zapnutí Testu **stiskni klávesu A** (Pro aktivaci Timeru na pozadí) **!**\
 \
 V odpovědích budeš mít označené správné odpovědi . (tečkou) na konci každé správné odpovědi.\
 \
