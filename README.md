@@ -1,6 +1,6 @@
 # mesos.cz-TestFaker
 MěSOŠ - Pomocník při testech
-\
+
 ## Informace
 Tento jednoduchý kód slouží jako 'pomocník' při testu v naší škole. ([mesos.cz](https://www.mesos.cz/))\
 Jednoduše přesuň obsah složky '*f*' do školního počítače např. do Temp v AppData nebo na svůj USB Disk\
