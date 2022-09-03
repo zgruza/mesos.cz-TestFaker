@@ -11,5 +11,7 @@ Pokud je ikona:\
 -> 2. Žlutý blok - Test se píše\
 Při druhé možnosti jdi do šložky TestyVytX (Číslo programu, které je nastaveno v souboru *TestyProgramConf.txt*) a spusť **Testy.exe**\
 **!** Při zapnutí Testu **stiskni klávesu A** (Pro aktivaci Timeru na pozadí) **!**\
+\
 V odpovědích budeš mít označené správné odpovědi . (tečkou) na konci každé správné odpovědi.\
+\
 Po dokončení testu si Test i tvé Výsledky můžeš uschovat nebo přeposlat na svůj Email, výsledky i test bude ve složce *FAKE_TEST*, aby ses tyto informace co jsou v testu doučil kdyby tě učitel na toto učivo vyvolal. :^)
