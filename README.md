@@ -1,5 +1,5 @@
-# mesos.cz-TestFaker
-MěSOŠ - Pomocník při testech
+# MěSOŠ-TestFaker
+TestFaker - Pomocník při testech
 
 ## Informace
 Tento jednoduchý kód slouží jako 'pomocník' při testu v naší škole. ([mesos.cz](https://www.mesos.cz/))\
