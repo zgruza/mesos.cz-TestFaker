@@ -5,7 +5,7 @@ MěSOŠ - Pomocník při testech
 Tento jednoduchý kód slouží jako 'pomocník' při testu v naší škole. ([mesos.cz](https://www.mesos.cz/))\
 Jednoduše přesuň obsah složky '*f*' do školního počítače např. do Temp v AppData nebo na svůj USB Disk\
 **Před úplným začátkem zkontroluj TestyProgramConf.txt jestli testový program souhlasí s tím co máš na počítači!**\
-Při začátu hodiny spusť soubor **TestFaker.exe** a vyčkej - Program tě bude informovat ikonou v Notifikační liště jestli se test píše nebo ne.\
+Při začátku hodiny spusť soubor **TestFaker.exe** a vyčkej - Program tě bude informovat ikonou v Notifikační liště jestli se test píše nebo ne.\
 Pokud je ikona:\
 -> 1. Zelená - Test se nepíše\
 -> 2. Žlutý blok - Test se píše\
